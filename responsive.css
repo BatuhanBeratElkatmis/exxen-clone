@@ -1,0 +1,161 @@
+@media screen and (max-width:1470px) {
+.nav-text2{
+padding: 0.5rem 0.7rem;
+}
+
+}
+
+@media screen and (max-width:1350px) {
+.landing-menu-container{
+display: none;
+}
+.landing-container-mobile{
+display: block;
+}
+
+
+}
+
+
+@media screen  and (max-width:1200px) {
+.model1-poster-content strong{
+font-size: 16px;
+}
+}
+
+@media screen  and (max-width:992px) {
+.sticky-form{
+position: static;   
+}
+.landing-register form input{
+width: 80%;
+padding: 7px 0 7px 1.5rem;
+margin: 0.5rem 1rem;
+}
+.model1-poster-content strong{
+font-size: 14.4px;
+}
+.device-text{
+font-size: 25px;
+}
+.navmobile-text1{
+font-size: 18px;
+}
+
+
+}
+
+
+@media screen  and (max-width:768px) {
+.card1{
+width:50%;
+}
+.device-text{
+font-size: 16px;
+font-weight: 500;
+}
+.footer-text1 a{
+font-size: 15px;
+font-weight: 600;
+}
+.footer-text2 a{
+font-size: 12px;
+font-weight: 400;
+}
+.navmobile-text1{
+font-size: 12px;
+padding: 7px 7px;
+}
+.navmobile-text2{
+font-size: 18px;
+
+}
+nav select{
+margin-left: 0.5rem;
+font-weight: 700;
+font-size: 12px;
+background-color: #ffcb04;
+}
+.mobile-menu-left img{
+width: 10rem;
+object-fit: contain;
+    
+}
+
+
+}
+
+@media screen  and (max-width:585px){
+.store-links-div{
+width: 80%;
+text-align: center;
+}
+.navmobile-text2{
+font-size: 12px;
+
+}
+}
+
+@media screen  and (max-width:576px) {
+.landing-register form input{
+width: 100%;
+}
+
+}
+
+
+@media screen  and (max-width:375px){
+.mobile-menu-left img{
+width: 7rem;
+object-fit: contain;
+}
+.navmobile-text1{
+font-size: 9px;
+padding: 7px 7px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
